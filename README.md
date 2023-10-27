@@ -1,1 +1,1 @@
-# a simple loading screen for my pygame project jazy hands, more coming soon. 
+# a simple loading screen for my pygame project jazzy hands, more coming soon. 
