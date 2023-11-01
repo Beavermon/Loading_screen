@@ -1,6 +1,7 @@
+# requires python and PIP (pip comes installed with recent versions of pygame)
+
 import pygame
 import sys
-import random
 from button import Button
 
 pygame.init()
