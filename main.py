@@ -9,10 +9,13 @@ pygame.init()
 SCREEN = pygame.display.set_mode((1280, 720))
 pygame.display.set_caption("Jazzy-Hands")
 
+# sets the screen size and window name 
+
 python = pygame.image.load('image/note.png')
 SCREEN.blit(python, (600, 600))
 
 BG = pygame.image.load("image/Background.png")
+# loads background^
 
 def get_font(size):
     return pygame.font.Font("font/font.ttf", size)
