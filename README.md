@@ -1,1 +1,1 @@
-# a simple loading screen for my pygame project jazzy hands, more coming soon. 
+### As of 11/8/2023, I have created a rythm game by stiching together a few tutorials and using the Pygame documentation. 
